@@ -1,10 +1,10 @@
 import pandas as pd
 import numpy as np
 
-# 读取数据
+# read data
 df = pd.read_csv('panel_final_Fintech_national.csv')
 
-# 查看数据基本信息
+# print information 
 print("=" * 80)
 print("数据基本信息")
 print("=" * 80)
