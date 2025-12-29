@@ -1,0 +1,24 @@
+﻿Variable,Model (1),Model (2),Model (3)
+,No Controls,With Controls,With Controls + National
+Fintech,-0.1546,-0.2088***,-0.2105***
+,(0.1029),(0.0596),(0.0608)
+Fintech²,0.0397***,0.0299***,0.0331***
+,(0.0135),(0.0082),(0.0070)
+Internet,,0.7579**,0.8405**
+,,(0.3608),(0.3995)
+Government,,3.1304***,3.2460***
+,,(0.9859),(0.9302)
+Openness,,0.0471,0.0587
+,,(0.0305),(0.0393)
+PC1,,0.0395,0.0355
+,,(0.0842),(0.0812)
+PC2,,0.1461,0.1418
+,,(0.1166),(0.1182)
+National Fintech,,,-0.0378
+,,,(0.0501)
+,,,
+Controls,NO,YES,YES
+National Control,NO,NO,YES
+Fixed Effects,YES,YES,YES
+N,170,170,170
+R-squared,0.205,0.541,0.543
